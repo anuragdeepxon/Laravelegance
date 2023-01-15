@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/dynamic_validator.js": "/js/dynamic_validator.js",
+    "/css/custom/custom.css": "/css/custom/custom.css",
+    "/css/data_table.css": "/css/data_table.css",
+    "/css/tailwind.css": "/css/tailwind.css",
+    "/css/app.css": "/css/app.css",
+    "/css/vendor/datatables/jquery.dataTables.css": "/css/vendor/datatables/jquery.dataTables.css",
+    "/js/vendor/datatables/jquery.dataTables.min.js": "/js/vendor/datatables/jquery.dataTables.min.js",
+    "/js/vendor/validator/jquery.validate.min.js": "/js/vendor/validator/jquery.validate.min.js"
+}
